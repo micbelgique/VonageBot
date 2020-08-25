@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VonageBotConnector", "VonageBotConnector\VonageBotConnector.csproj", "{AEC76F2C-68EF-4CBD-8CC2-A8F9331DC29B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEC76F2C-68EF-4CBD-8CC2-A8F9331DC29B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC76F2C-68EF-4CBD-8CC2-A8F9331DC29B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC76F2C-68EF-4CBD-8CC2-A8F9331DC29B}.Debug|x64.ActiveCfg = Debug|x64
+		{AEC76F2C-68EF-4CBD-8CC2-A8F9331DC29B}.Debug|x64.Build.0 = Debug|x64
+		{AEC76F2C-68EF-4CBD-8CC2-A8F9331DC29B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC76F2C-68EF-4CBD-8CC2-A8F9331DC29B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEC76F2C-68EF-4CBD-8CC2-A8F9331DC29B}.Release|x64.ActiveCfg = Release|x64
+		{AEC76F2C-68EF-4CBD-8CC2-A8F9331DC29B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C175879F-CB58-4C39-9333-990241B55CC1}
+	EndGlobalSection
+EndGlobal

@@ -1,5 +1,5 @@
-# VonageBot
-A connector to permit Bot framework with Directline and Vonage Voice to communicate
+# VonageSpeechBot
+A connector to allow Bot framework with Directline and Vonage Voice to communicate
 ## What you will need
 
 ### Vonage account
@@ -11,7 +11,7 @@ You will need to have an account on Vonage to use it. If you don't have one, you
 ngrok secure introspectable tunnels to localhost webhook development tool and debugging tool.
 You will need it to create a tunnel between Vonage and your computer.
 
-### Bot Framework with Speech directline connected
+### Microsoft Bot Framework with Speech directline connected
 
 You will need a bot and Speech directline connected. How to do it? [Click here](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/tutorial-voice-enable-your-bot-speech-sdk)
 
